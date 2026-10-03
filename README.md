@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔥 Jaylee Client
 
 > **Jaylee Client** — удобный инструмент для интеграции и управления оригинальными проектами **Zapret** и **TgWsProxy** от разработчиков **Flowseal** и **Bol-van**.
