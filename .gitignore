@@ -1,0 +1,18 @@
+.vs/
+bin/
+obj/
+packages/
+*.nupkg
+*.user
+*.pdb
+*.exe
+*.dll
+*.obj
+*.ilk
+*.idb
+*.pch
+**/Generated Files/
+ipch/
+*.log
+*.sdf
+*.opendb
