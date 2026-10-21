@@ -137,7 +137,7 @@ youtube.com
 Наш официальный Telegram-канал — место, где мы публикуем новости проекта, обновления и важные уведомления.
 
 * 👉 **Telegram-канал:** [https://t.me/Jaylee_Client](https://t.me/Jaylee_Client)
-* 👉 **Telegram-менеджер:** [https://t.me/jaylee_lesliee](https://t.me/jaylee_lesliee)
+* 👉 **Telegram-менеджер:** [https://t.me/jaylee_lesliee](https://t.me/jaylee_eu)
 
 ---
 
